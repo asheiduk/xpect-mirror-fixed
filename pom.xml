@@ -8,7 +8,7 @@
 
 	<properties>
 		<tycho-version>2.7.5</tycho-version>
-		<source-url>http://www.xpect-tests.org/updatesite/nightly/</source-url>
+		<source-url>file://${project.basedir}/meta-site/</source-url>
 	</properties>
 
 	<build>
